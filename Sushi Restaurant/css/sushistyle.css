@@ -1,0 +1,46 @@
+body{
+    
+    font-family: 'Merienda', cursive;
+}
+
+video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0.2px;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 1;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 14px 50px;
+    border: 2px solid #47bce6;
+    font-size: 24px;
+    color: lightblue;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    border-radius: 9px;
+}
+
+div{
+    position:relative;
+    z-index: 2;
+    margin: 0 auto;
+    max-width: 100%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+   
+}
+h1{
+    color: silver;
+    font-size: 45px;
+   
+}
+p{
+    color: silver;
+    max-width: 720px;
+    text-align: center;
+    margin: 0 auto;
+}

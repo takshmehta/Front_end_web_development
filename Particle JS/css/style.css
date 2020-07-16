@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Metal Mania', cursive;
+    font-size: 180px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+    height: 33.3vh;
+    width: 100vw;
+}
+#red{
+    background-color:#e74c3c;
+    height: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+#sun{
+    background-color: #f1c40f;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#green{
+    background-color: #16a085;
+    height: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.wrk{
+    text-align: center;
+}
